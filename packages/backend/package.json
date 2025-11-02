@@ -13,6 +13,8 @@
     "typescript": "catalog:"
   },
   "dependencies": {
-    "convex": "catalog:"
+    "@convex-dev/geospatial": "^0.1.9",
+    "convex": "catalog:",
+    "convex-helpers": "^0.1.104"
   }
 }

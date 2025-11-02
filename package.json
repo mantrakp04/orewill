@@ -15,7 +15,9 @@
     "dev:server": "turbo -F @orewill/backend dev",
     "dev:setup": "turbo -F @orewill/backend dev:setup"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@stackframe/react": "^2.8.48"
+  },
   "devDependencies": {
     "turbo": "^2.5.4"
   },
